@@ -1,0 +1,2 @@
+﻿NAME          IMAGE       COMMAND            SERVICE   CREATED         STATUS         PORTS
+lr_4-bank-1   lr_4-bank   "python main.py"   bank      7 minutes ago   Up 7 minutes   127.0.0.1:9999->9999/tcp
